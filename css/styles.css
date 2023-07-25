@@ -8,19 +8,3 @@ a[href^="https"] {
   ul + p {
     font-size: 24px;
   }
-    /* Файл styles.css */
-:root {
-  --primary-color: #007bff;
-  --secondary-color: #6c757d;
-  --background-color: #f8f9fa;
-  /* Інші змінні кольорів */
-}
-body {
-  background-color: var(--background-color);
-}
-h1 {
-  color: var(--primary-color);
-}
-p {
-  color: var(--secondary-color);
-}
